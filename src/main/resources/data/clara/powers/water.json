@@ -1,0 +1,11 @@
+{
+    "name": "Lack of Breath",
+    "description": "You cannot drown.",
+    "type": "origins:apply_effect",
+    "effect": {
+        "effect": "minecraft:water_breathing",
+        "duration": -1,
+        "hide_particles": "true",
+        "hide_icon": "true"
+    }
+}

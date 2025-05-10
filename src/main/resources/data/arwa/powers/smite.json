@@ -1,0 +1,11 @@
+{
+    "type": "apugli:modify_enchantment_damage_taken",
+    "enchantment": "minecraft:smite",
+    "base_value": 0,
+    "modifier": {
+        "operation": "addition",
+        "value": 1.2
+    },
+    "name": "Undead",
+    "description": "While you may not technically be.. Undead, Headcrabs are still affected by Smite"
+}

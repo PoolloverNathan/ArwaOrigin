@@ -1,0 +1,21 @@
+{
+	"type": "origins:multiple",
+	"speedey": {
+		"type": "origins:attribute",
+		"modifier": {
+			"name": "increase movement speed",
+			"attribute": "minecraft:generic.movement_speed",
+			"value": 0.2,
+			"operation": "multiply_base"
+		}
+	},
+	"jumpy": {
+		 "type": "origins:modify_jump",
+        "modifier": {
+          "operation": "addition",
+          "value": 0.1
+		}
+	},
+	"name": "Lil' quick one",
+	"description": "You have mastered your host and can go just that small bit faster and jump that small bit higher."
+}

@@ -1,0 +1,114 @@
+{
+  "arwahurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwahurt",
+    "sounds": [
+      {
+        "name": "arwa:hc_pain1",
+        "stream": false
+      },
+      {
+        "name": "arwa:hc_pain2",
+        "stream": false
+      }
+    ]
+  },
+  "arwadeath": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwadeath",
+    "sounds": [
+      {
+        "name": "arwa:hc_die1",
+        "stream": false
+      },
+      {
+        "name": "arwa:hc_die2",
+        "stream": false
+      }
+    ]
+  },
+  "arwapurr": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwapurr",
+    "sounds": [
+      {
+        "name": "arwa:hc_purr",
+        "stream": false
+      },
+      {
+        "name": "arwa:hc_purr2",
+        "stream": false
+      }
+    ]
+  },
+  "arwaalert": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwaalert",
+    "sounds": [
+      {
+        "name": "arwa:hc_alert",
+        "stream": false
+      }
+    ]
+  },
+  "arwaagree": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwaagree",
+    "sounds": [
+      {
+        "name": "arwa:hc_agree",
+        "stream": false
+      }
+    ]
+  },
+  "arwadisagree": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwadisagree",
+    "sounds": [
+      {
+        "name": "arwa:hc_disagree",
+        "stream": false
+      }
+    ]
+  },
+  "arwafear": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwafear",
+    "sounds": [
+      {
+        "name": "arwa:hc_fear",
+        "stream": false
+      }
+    ]
+  },
+  "arwagrowl": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwagrowl",
+    "sounds": [
+      {
+        "name": "arwa:hc_growl",
+        "stream": false
+      }
+    ]
+  },
+  "arwalaugh": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwalaugh",
+    "sounds": [
+      {
+        "name": "arwa:hc_laugh",
+        "stream": false
+      }
+    ]
+  },
+  "arwasuprise": {
+    "category": "hostile",
+    "subtitle": "subtitles.arwasuprise",
+    "sounds": [
+      {
+        "name": "arwa:hc_suprise",
+        "stream": false
+      }
+    ]
+  }
+}

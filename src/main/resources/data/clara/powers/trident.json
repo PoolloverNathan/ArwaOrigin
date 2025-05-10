@@ -1,0 +1,29 @@
+{
+    "type": "origins:multiple",
+    "name": "Knowledge from the Ocean Depths",
+    "description": "You know how to craft a trident",
+    "base": {
+        "type": "origins:recipe",
+        "recipe": {
+            "type": "crafting_shaped",
+            "id": "clara:trident",
+            "pattern": [
+                " # ",
+                "#P#",
+                " P "
+            ],
+            "key": {
+                "#": {
+                    "item": "minecraft:quartz"
+                },
+                "P": {
+                    "item": "minecraft:prismarine_shard"
+                }
+            },
+            "result": {
+                "item": "minecraft:trident",
+                "count": 1
+            }
+        }
+    }
+}

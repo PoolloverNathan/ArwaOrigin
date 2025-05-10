@@ -1,0 +1,15 @@
+{
+    "powers": [
+        "arwa:nightvision",
+        "arwa:drown",
+        "arwa:speed",
+"arwa:smite",
+"arwa:fire",
+"arwa:claws"
+    ],
+    "icon": "minecraft:pink_dye",
+    "order": 5,
+    "impact": 2,
+    "name": "Headcrab (Arwa)",
+    "description": "A being from another world, damaged mentally but determined to keep going."
+}

@@ -1,0 +1,14 @@
+{
+"type": "origins:action_over_time",
+"entity_action": {
+  "type": "origins:gain_air",
+  "value": -10
+},
+"interval": 10,
+"condition": {
+"type": "origins:submerged_in",
+"fluid": "minecraft:water"
+},
+  "name":"Shorter Breath",
+  "description":"Headcrabs drown way faster than most."
+}

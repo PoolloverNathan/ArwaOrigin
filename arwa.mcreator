@@ -1,0 +1,139 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "arwahurt",
+      "files": [
+        "hc_pain1",
+        "hc_pain2"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Hurts"
+    },
+    {
+      "name": "arwadeath",
+      "files": [
+        "hc_die1",
+        "hc_die2"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Dies"
+    },
+    {
+      "name": "arwapurr",
+      "files": [
+        "hc_purr",
+        "hc_purr2"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Purrs"
+    },
+    {
+      "name": "arwaalert",
+      "files": [
+        "hc_alert"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Alerted"
+    },
+    {
+      "name": "arwaagree",
+      "files": [
+        "hc_agree"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Agrees"
+    },
+    {
+      "name": "arwadisagree",
+      "files": [
+        "hc_disagree"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Disagrees"
+    },
+    {
+      "name": "arwafear",
+      "files": [
+        "hc_fear"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Fears"
+    },
+    {
+      "name": "arwagrowl",
+      "files": [
+        "hc_growl"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Growls"
+    },
+    {
+      "name": "arwalaugh",
+      "files": [
+        "hc_laugh"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa \"Laughs\""
+    },
+    {
+      "name": "arwasuprise",
+      "files": [
+        "hc_suprise"
+      ],
+      "category": "hostile",
+      "subtitle": "Arwa Suprised"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.arwa.suprised": "Arwa Suprised",
+      "subtitles.arwa.disagree": "Arwa Disagrees",
+      "subtitles.arwa.death": "Arwa Dies",
+      "subtitles.arwaalert": "Arwa Alerted",
+      "subtitles.arwasuprise": "Arwa Suprised",
+      "subtitles.arwa.fear": "Arwa Fears",
+      "subtitles.arwadeath": "Arwa Dies",
+      "subtitles.arwa_hurt": "Arwa Hurts",
+      "subtitles.arwa.agree": "Arwa Agrees",
+      "subtitles.arwalaugh": "Arwa \"Laughs\"",
+      "subtitles.arwafear": "Arwa Fears",
+      "subtitles.arwagrowl": "Arwa Growls",
+      "subtitles.arwa.alert": "Arwa Alerted",
+      "subtitles.arwahurt": "Arwa Hurts",
+      "subtitles.arwadisagree": "Arwa Disagrees",
+      "subtitles.arwa.hurt": "Arwa Hurts",
+      "subtitles.arwaagree": "Arwa Agrees",
+      "subtitles.arwa.growl": "Arwa Growls",
+      "subtitles.arwapurr": "Arwa Purrs",
+      "subtitles.arwa.purr": "Arwa Purrs",
+      "subtitles.arwa.laugh": "Arwa \"Laughs\""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "arwa",
+    "modName": "ArwaOrigin",
+    "version": "1.0.0",
+    "description": "Adds Arwa and Clara\u0027s Origins for the Origins Mod!",
+    "author": "Pokycraftgamer9/DJ_zim20",
+    "websiteURL": "about:blank",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "com.pokyproductions.arwa",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}

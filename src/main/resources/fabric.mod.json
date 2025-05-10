@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "arwa",
+  "version": "1.0.0",
+  "name": "ArwaOrigin",
+  "description": "Adds Arwa and Clara's Origins for the Origins Mod!",
+  "authors": [
+    "Pokycraftgamer9/DJ_zim20"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Creative Commons Attribution-NonCommercial 3.0",
+  "icon": "assets/arwa/icon.png",
+  "accessWidener": "arwa.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pokyproductions.arwa.ArwaMod"
+    ],
+    "client": [
+      "com.pokyproductions.arwa.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  }
+}

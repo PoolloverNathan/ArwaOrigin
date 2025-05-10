@@ -1,0 +1,63 @@
+{
+    "type": "origins:multiple",
+    "name": "Berry Enjoyment",
+    "description": "Despite your undead state, you still really like berries.",
+    "badges": [],
+    "sweetberry": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:sweet_berries"
+            }
+        },
+        "food_modifier": {
+            "name": "Increased food points",
+            "operation": "multiply_total",
+            "value": 2
+        },
+        "saturation_modifier": {
+            "name": "Increased saturation points",
+            "operation": "multiply_total",
+            "value": 2
+        }
+    },
+    "glowberry": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:glow_berries"
+            }
+        },
+        "food_modifier": {
+            "name": "Increased food points",
+            "operation": "multiply_total",
+            "value": 2
+        },
+        "saturation_modifier": {
+            "name": "Increased saturation points",
+            "operation": "multiply_total",
+            "value": 2
+        },
+        "blueberry": {
+            "type": "origins:modify_food",
+            "item_condition": {
+                "type": "origins:ingredient",
+                "ingredient": {
+                    "item": "promenade:blueberries"
+                }
+            },
+            "food_modifier": {
+                "name": "Increased food points",
+                "operation": "multiply_total",
+                "value": 2
+            },
+            "saturation_modifier": {
+                "name": "Increased saturation points",
+                "operation": "multiply_total",
+                "value": 2
+            }
+        }
+    }
+}

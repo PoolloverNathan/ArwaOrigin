@@ -1,0 +1,40 @@
+{
+    "name": "Sharp claws",
+    "description": "With your unnatural claws you can slice through apponients even without a weapon",
+    "condition": {
+        "type": "origins:equipped_item",
+        "equipment_slot": "mainhand",
+        "item_condition": {
+            "type": "origins:empty"
+        }
+    },
+    "type": "origins:target_action_on_hit",
+    "entity_action": {
+        "type": "origins:choice",
+        "actions": [
+            {
+                "weight": 1,
+                "element": {
+                    "type": "origins:damage",
+                    "amount": 3,
+                    "source": {
+                        "name": "player",
+                        "bypasses_armor": false
+                    }
+                }
+            },
+            {
+                "weight": 2,
+                "element": {
+                    "type": "origins:damage",
+                    "amount": 4,
+                    "source": {
+                        "name": "player",
+                        "bypasses_armor": false
+                    }
+                }
+            }
+        ]
+    },
+    "cooldown": 1
+}

@@ -1,0 +1,12 @@
+{
+  "type":"origins:modify_damage_taken",
+  "damage_condition": {
+    "type":"origins:fire"
+  },
+  "modifier": {
+    "operation":"addition",
+    "value": 1
+  },
+  "name":"Flamable",
+  "description":"Fire is EXTRA lethal to you."
+}
